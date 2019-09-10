@@ -10,3 +10,5 @@ This tool, developed using the .Net framework. The tool is divided into four sec
 The problem and solution are then passed through the tweet synthesizer to post a broadcast exercise tweet with a problem and solution at an interval. The Tweet Synthesiser generated 500 tweet exercises and 500 tweet solutions for their corresponding questions in a minute of execution. A five second interval is placed between the posting of each of tweet to avoid flooding the Twitter API.
 
 Performance and attendance tweets work similarly, we select a class list with the fields (student_id,twitter_handle,moduleandmarks/attendance) as a CSV file. With that information, we compose custom tweet messages depending on their performance average and class attendance, that are sent directly to students. We generate schedule/deadline tweets from a digital study-guide by adding important events or dates. 
+
+Publication: https://bit.ly/2kBVUCA
